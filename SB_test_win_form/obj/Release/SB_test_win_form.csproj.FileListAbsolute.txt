@@ -1,0 +1,10 @@
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\bin\Release\SB_test_win_form.exe.config
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\bin\Release\SB_test_win_form.exe
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\bin\Release\SB_test_win_form.pdb
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.AddDataToDBForms.resources
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.LoginsForm.resources
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.MainWindow.resources
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.Properties.Resources.resources
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.csproj.GenerateResource.Cache
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.exe
+C:\C#\source\repos\SB_test_win_form\SB_test_win_form\obj\Release\SB_test_win_form.pdb

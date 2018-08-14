@@ -1,0 +1,13 @@
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\bin\Debug\SB_test_win_form.exe.config
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\bin\Debug\SB_test_win_form.exe
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\bin\Debug\SB_test_win_form.pdb
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_Control_Program.csprojAssemblyReference.cache
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.AddDataToDBForms.resources
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.LoginsForm.resources
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.MainWindow.resources
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.Messages.MessagesForm.resources
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.Properties.Resources.resources
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_Control_Program.csproj.GenerateResource.cache
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_Control_Program.csproj.CoreCompileInputs.cache
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.exe
+D:\C#\workspace\Education\SB_test_win_form\SB_test_win_form\obj\Debug\SB_test_win_form.pdb
